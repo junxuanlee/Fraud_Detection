@@ -19,7 +19,7 @@ The following are the processes implemented on the dataset:
     iv) One-hot encoding
     v) Improved imbalanced target distribution through Synthetic Minority Oversampling Technique (SMOTE)
 
-### 4) Model building
+### Model building
     i) Logistic Regression
     ii) Decision Tree
     iii) Random Forest
