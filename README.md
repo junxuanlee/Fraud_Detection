@@ -3,13 +3,13 @@
 This repository includes the implementations for fraud detection using financial dataset from this link: https://www.kaggle.com/ealaxi/paysim1
 
 The following are the processes implemented on the dataset:
-# Data Visualization
+### Data Visualization
     i) Kernel Density Estimate (KDE) Plot
     ii) Box Plot
     iii) Scatter Plot
     iv) Pair Plot
     
-# Feature Engineering
+### Feature Engineering
     i) Added 'limit', 'frequent', 'merchant' columns
     
 # Preprocessing
