@@ -25,5 +25,5 @@ The following are the processes implemented on the dataset:
     iii) Random Forest
     iv) Gaussian Naive Bayes
     
-At the end of the implementations, it was decided that Gaussian Naive Bayes Classifier is preferred because it gives no false negatives compared to other classifiers. This is important in fraud detection because a single false negative in the detection can cause huge loss to the bank where any number of false positive will not impact the bank.
+At the end of the implementations, it was decided that Gaussian Naive Bayes Classifier is preferred because it gives no false negatives compared to other classifiers. This is important in fraud detection because a single false negative in the detection can cause huge loss to the bank where any number of false positives will not impact the bank.
     
