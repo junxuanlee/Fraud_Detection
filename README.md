@@ -6,11 +6,8 @@ The following are the processes implemented on the dataset:
 # 1) Data Visualization
     
     i) Kernel Density Estimate (KDE) Plot
-    
     ii) Box Plot
-    
     iii) Scatter Plot
-    
     iv) Pair Plot
     
 # 2) Feature Engineering
