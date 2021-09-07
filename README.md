@@ -1,6 +1,6 @@
 # Fraud_Detection
 
-This repository includes the implementations for fraud detection using financial dataset from this link: https://www.kaggle.com/ealaxi/paysim1
+This project is an implementation of Gaussian Naive Bayes Classifier to detect fraudulent bank transactions based on a financial dataset at: https://www.kaggle.com/ealaxi/paysim1
 
 The following are the processes implemented on the dataset:
 ### Data Visualization
